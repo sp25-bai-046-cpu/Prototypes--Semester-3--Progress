@@ -9,8 +9,15 @@ I am an Artificial Intelligence student at **COMSATS University Islamabad**, foc
 ###  Featured Architectural Prototypes
 Beyond this JavaFX project, I have independently architected and shipped three distinct problem-first solutions:
 *  **Zypher:** An AI-powered traffic prediction matrix designed to mitigate urban transit congestion.
+
+*  🔗 **Live UI Prototype:** [Launch Lovable Web Demo](https://lnkd.in/p/diHjtxFa)
+
 *  **Fireguard AI:** A computer-vision and sensor-driven smoke risk detection framework.
+
+*   🔗 **Live UI Prototype:** [Launch Lovable Web Demo](https://lnkd.in/p/dCNtdq8J)
 *  **Ayber:** A specialized cybersecurity analysis tool tailored for early-stage startups.
+
+* 🔗 **Live UI Prototype:** [Launch Lovable Web Demo](https://lnkd.in/p/dDavgvAm)
 
 ###  Ecosystem & Community Impact
 Outside of technical execution, I work to bridge the gap between pure code and community value. I scale student technical communities, broker cross-society partnerships, and have been recognized as a **Top-3 Regional Campus Ambassador**.
